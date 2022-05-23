@@ -1,0 +1,46 @@
+.heading{
+    font-weight: bold;
+    font-size: 40px;
+}
+body{
+    background-size: cover;
+}
+h2{
+    color: white;
+    font-weight: bold;
+}
+h1{
+    font-weight: bold;
+    font-size: 45px;
+    color: white;
+}
+p{
+    font-weight: bold;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
+#Intro {
+    padding: 20px;
+    font-size: 42;
+}
+#Natural a {
+    font-size:30px;
+
+}
+#ManMade a {
+    font-size:30px;
+
+}
+.menu {
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: rgb(255, 255, 255);
+}
+img{
+    height: 230px;
+    width: 350;
+}
